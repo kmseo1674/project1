@@ -29,7 +29,7 @@ function About(){
 		
 			<div className="main-typo">
 				<div><span className="serif">NEXT MOBILE DEVICE</span></div>
-				<div>designdigit</div>
+				<div>KMSEO</div>
 			</div>
 			<div className="flex-cont reserve">
 				<div className="img">

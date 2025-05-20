@@ -75,15 +75,15 @@ const data={
 	footer: {
 		info: [
 			{
-				label: ["PHONE", "010-0000-0000"],
-				description: ["MAIL", "designdigit@naver.com"]
+				label: ["PHONE", "010-5233-2587"],
+				description: ["MAIL", "qaz16734@gamil.com"]
 			},
 			{
-				label: ["GIT", "https://github.com/designdigit"],
-				description: ["PORTFOLIO", "https://designdigit.github.io/portfolio"]
+				label: ["GIT", "https://github.com/kmseo1674"],
+				description: ["PORTFOLIO", "https://github.com/kmseo1674/portfolio1"]
 			}
 		],
-		copyright: "COPYRIGHT ⓒ 2024 Designdigit. ALL RIGHTS RESERVED."
+		copyright: "COPYRIGHT ⓒ 2025 KMSEO. ALL RIGHTS RESERVED."
 	}
 };
 

@@ -9,7 +9,7 @@ function Footer(){
 				<div className="ft-wrap">
 					<div className="ft-left">
 						<div className="ft-logo">
-							<a href="">designdigit</a>
+							<a href="">KMSEO</a>
 						</div>
 						<div className="ft-info">
 							{footer.info.map((d, i) => (

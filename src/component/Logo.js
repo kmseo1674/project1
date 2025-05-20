@@ -1,7 +1,7 @@
 function Logo(){
 	return(
 		<h1 className="hd-logo">
-			<a href="">designdigit</a>
+			<a href="">KMSEO</a>
 		</h1>
 	);
 }
